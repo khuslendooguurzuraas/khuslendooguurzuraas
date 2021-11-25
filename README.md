@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khuslendooguurzuraas
 - 👀 I’m interested in you
-- 🌱 I’m currently learning ML, AI
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
